@@ -17,6 +17,10 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Garrur&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Garrur&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <p align="center">
+  <img src="https://leetcard.jacoblin.cool/Utkarsh_Raj32?theme=unicorn" alt="LeetCode Stats" />
+</p>
+
 </div>
 
 
@@ -90,6 +94,9 @@
   <a href="https://twitter.com/uraj427" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
+   <a href="https://leetcode.com/u/Utkarsh_Raj32/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="52" height="40" alt="leetcode logo" />
+</a>
 </div>
 
 ###
