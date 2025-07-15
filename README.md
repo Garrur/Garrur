@@ -6,7 +6,6 @@
 
 ###
 <h4>Pursuing M.Tech in Artificial Intelligence and Data Science Engineering at IIT Patna</h4>
-###
 
 ###
 <h4 align="left">.🎓 Graduated with a degree in Computer Engineering from PTU.<br>.💻 Proficient in JavaScript, HTML/CSS, Node.js, Express.js, React.js, and more....<br>.🌱 Always eager to learn and explore new technologies and frameworks.</h4>
